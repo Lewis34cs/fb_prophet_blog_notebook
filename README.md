@@ -1,3 +1,3 @@
 # Prophet Blog
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@importchris/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@importchris/0" alt="Facebook Prophet Blog"> 
+<a target="_blank" href="https://importchris.medium.com/forecasting-using-facebooks-prophet-library-ce628e76586b"><img src="https://importchris.medium.com/forecasting-using-facebooks-prophet-library-ce628e76586b" alt="Facebook Prophet Blog"> 
